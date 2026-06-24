@@ -4,7 +4,7 @@ AI Engineer specializing in Machine Learning and Natural Language Processing. Co
 ---
 
 - 🤖 Interested in **Machine Learning**, **Computer Vision**, and **NLP**
-- 🛠️ Building **Skepti Scan** with [Yousef Tarek](https://github.com/ytfathy), a RAG system that investigates fact evidence in documents and URLs
+- 🛠️ Building **Skepti Scan**, a RAG system that investigates fact evidence in documents and URLs
 - 🧠 Learning to build and deploy **full production software** powered by AI
 - 💡 Exploring workflow automation with **n8n**
 - 📫 Reach me at [ziyad.ahmedalawami@gmail.com](mailto:ziyad.ahmedalawami@gmail.com)
