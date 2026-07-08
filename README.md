@@ -8,9 +8,8 @@ AI Engineer specializing in Machine Learning and Natural Language Processing. Co
 - 🛠️ Building scalable AI applications that solve real-world problems
 - 💡 Exploring workflow automation with **n8n**
 - 📫 Reach me at [ziyad.ahmedalawami@gmail.com](mailto:ziyad.ahmedalawami@gmail.com)
-<!--
-- 🌐 Check out my [portfolio](https://will-add-soon) 👈
--->
+- 🌐 Check out my [portfolio](https://ziyadalawami.pages.dev) 👈
+
 ---
 
 <p align="center">
